@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+openai
+python-dotenv
+pypdf
+langchain-mistralai
+langchain-core
+
+
+# Replace this with the real Bister AI SDK/package name
+# bister-ai-sdk

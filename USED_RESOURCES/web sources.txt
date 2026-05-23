@@ -1,0 +1,2 @@
+Langchain documentation
+mistral -> for free api key (for using LLMs)

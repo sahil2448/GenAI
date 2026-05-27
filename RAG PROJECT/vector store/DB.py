@@ -25,7 +25,7 @@ result =  vector_store.similarity_search("what is used for data analysis?",k=2) 
 
 for r in result:
      print(r.page_content)
-    print(r.metadata)
+     print(r.metadata)
 
 
 retriever = vector_store.as_retriever()
